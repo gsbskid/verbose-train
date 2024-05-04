@@ -1,0 +1,4 @@
+tqdm
+spacy 
+torch
+transformers

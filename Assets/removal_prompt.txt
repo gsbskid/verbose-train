@@ -1,0 +1,13 @@
+<s>
+
+<|user|> Instruct :
+* You will be given a passage of text as input.
+* Your task is to generate one question-answer pair based on the information in the passage.
+* Only ask direct subject question, not true and False or Multiple Choice
+* Focus on factual questions that can be directly answered from the provided text.
+* Keep the answers accurate and informative, directly addressing the corresponding question.
+* The question should not be based on names, emails etc
+* Do not ask vague questions like What is the context of provided text
+* Only return the question answer pair and nothing else
+
+Passage :
